@@ -1,6 +1,10 @@
 # wordle solver
 This is a Python program to solve the online word puzzle, wordle : https://www.powerlanguage.co.uk/wordle/
 
+nb2.ipynb is the jupyter notebook for the program.
+wordle_solver.py is the same program as a python script.
+data contains word2.csv which is a dataset of all 5-letter words.
+
 # How to set up: (Tested on Anaconda Jupyter Notebook)
 -> Download zip and extract.
 -> Launch the notebook nb2.ipynb using Jupyter Notebook etc. method may vary.
