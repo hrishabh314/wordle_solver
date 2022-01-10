@@ -10,6 +10,8 @@ data contains word2.csv which is a dataset of all 5-letter words.
 -> Launch the notebook nb2.ipynb using Jupyter Notebook etc. method may vary.
 
 # How to use:
+![e12a4a57-53e7-49a7-81ad-1d0370caf12a](https://user-images.githubusercontent.com/74061616/148730510-6a0aa419-b771-46df-99b6-7e0e3f2d64c6.jpg)
+
 -> Outputs:
   -> guess <guess_number> <guess_string>
       eg. guess 3 lover
